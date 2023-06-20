@@ -10,7 +10,7 @@ This repository is dedicated to all my SQL projects. Each project folder within 
 ## 🔗 Links
 Project 1 - Covid19 Exploratory Analysis - https://github.com/MuthalibAbdul/SQL/blob/main/Project%201%20-%20Covid19%20Exploratory%20Analysis/SQL%20Project%201.pdf
 
-## 🔗 Links
+## 🔗 Other Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://muthalibabdul.github.io/Main.Portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muthalibabdul/)
 
